@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "cloudstudio.github-authentication",
+        "github.vscode-pull-request-github",
+        "gitlab.gitlab-workflow",
+        "waderyan.gitblame"
+    ]
+}
